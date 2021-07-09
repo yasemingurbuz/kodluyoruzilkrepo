@@ -2,6 +2,8 @@
 
 Bu repo Java Back-Ed eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor. 
 
+![Markdown](C:\Users\yasin\OneDrive\Masaüstü\kodluyoruzilkrepo-main\figures\github.png)
+
 ## Installation
 
 Öncelikle projeyi clonelayın.
